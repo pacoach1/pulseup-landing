@@ -1,0 +1,8 @@
+.DS_Store
+.vercel
+.env
+.env.*
+!.env.example
+node_modules
+*.log
+펄스업 7일 체험권 랜딩페이지.html
